@@ -5,5 +5,5 @@ Move the four .py files (every py file except manage.py into Config folder
 3)Create a file in Base dir (ie:The dir containing Config managepy and ADIS_tranlator) n name it db.sqlite3
 install django (i dont reccomd installing in VENV) 
 go to cmd/bash/terminal 
-cd to base dir(ie:The dir containing Config managepy and ADIS_tranlator) and run cammand    py manage.py runserver
+cd to base dir(ie:The dir containing Config managepy and ADIS_tranlator) and run cammand    'py manage.py runserver'
 
